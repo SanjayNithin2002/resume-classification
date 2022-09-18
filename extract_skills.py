@@ -1,7 +1,6 @@
 import numpy as np
 import csv
 
-
 def extract_skills():
     skills_arr = np.array([],dtype='object')
     with open('data/dataset.csv', mode ='r')as file:
