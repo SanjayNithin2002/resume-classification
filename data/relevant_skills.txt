@@ -7,7 +7,6 @@ Android Studio
 Angular
 Artificial Intelligence
 Artificial Intelligence Systems
-Augmented Reality
 Azure DevOps
 Bash
 Big Data
@@ -19,11 +18,9 @@ C
 CSS Frameworks
 Cascading Style Sheets
 Cisco Packet Tracer
-Classification And Regression Tree
 Cloud Computing
 Cloud Infrastructure
 Cloud Technologies
-Computer Graphics
 Computer Networks
 Computer Vision
 Convolutional Neural Networks
@@ -84,14 +81,12 @@ Kali Linux
 Keras
 Kotlin
 Kubernetes
-Linear Algebra
 Linear Regression
 Linux
 Logistic Regression
 MATLAB
 MERN Stack
 Machine Learning
-Machine Learning Algorithms
 Matplotlib
 Microsoft Azure
 Mobile App
@@ -146,10 +141,8 @@ Speech Recognition
 Support Vector Machine
 Swift
 Swing
-TCP/IP
 TensorFlow
 Text Classification
-Tkinter
 Tokenization
 TypeScript
 Ubuntu
@@ -157,7 +150,6 @@ VM
 Virtual Machines
 Virtual Private Networks
 Virtualization
-Virtuoso
 Web Development
 Web Development Tools
 Web Frameworks
