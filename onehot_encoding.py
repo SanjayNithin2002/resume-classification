@@ -1,7 +1,7 @@
 import csv 
 
 def extract_skills():
-    with open("data/clean_dataset.csv","r") as f:
+    with open("data/new_dataset_CSV.csv","r") as f:
         skills_list = []
         csvfile = csv.reader(f)
         for data in csvfile: 
@@ -13,7 +13,7 @@ def extract_skills():
 def create_dataset(): 
     skills_list = extract_skills()
     dataset = []
-    with open("data/clean_dataset.csv","r") as f:
+    with open("data/new_dataset_CSV.csv","r") as f:
         csvfile = csv.reader(f)
         for data in csvfile:
             skills_bin = []
@@ -22,14 +22,17 @@ def create_dataset():
                     skills_bin.append(1)
                 else:
                     skills_bin.append(0)
-            dataset.append(data[:2] + skills_bin)
+            dataset.append(data[:2] + [data[2].lower()] + skills_bin)
+    for i in range(len(dataset)):
+        dataset[i] = dataset[i][:3] + dataset[i][4:]
     return dataset
-
+           
 def create_csv_file():
     skills_list = extract_skills()
+
     with open("data/proper_dataset.csv","w") as f:
         csvfile = csv.writer(f)
-        row = ["Id","Name"] + skills_list
+        row = ["Id","Name","Streams"] + skills_list
         csvfile.writerow(row)
         csvfile.writerows(create_dataset())
         
