@@ -11,7 +11,7 @@ def create_json():
     with open("data/skill_mapping.json", "w") as jsonfile:
         json_object = json.dumps(skill_dict, indent=4)
         jsonfile.write(json_object)
-
+~
 
 if __name__ == "__main__":
     print(create_json())

@@ -1,0 +1,400 @@
+1,EESHA SAXENA,cloud computing,Blockchain,JavaScript,Virtualization,Docker,React.js,MongoDB
+2,Jaishree Sharma,cloud computing,DevOps
+3,RITIK AGARWAL,data science,JavaScript,Machine Learning,Data Science,Natural Language Processing
+4,PRASON POUDEL,data science,Machine Learning,Artificial Intelligence,Blockchain,Support Vector Machine,Web Development,Network Architecture
+5,Roshan Bhatt,cloud computing,Azure DevOps,Node.js,JavaScript,Socket.io,DevOps,Web Development,WebRTC
+6,Khushii Guptaa,cloud computing,Kotlin,Google Cloud,JavaScript,Google Cloud Platform,Front End
+7,PANKAJ SHARMA,cyber security,JavaScript,Kotlin,Ethereum,React.js
+8,Ranjit Nair,core,JavaScript,Node.js,Machine Learning,MongoDB,Web Development,NoSQL
+9,Atishay Jain,core,JavaScript
+10,Abhirup Bhattacharya,cloud computing,Firebase,Machine Learning,Web Development,Microsoft Azure
+11,Parag Bramh,cloud computing,JavaScript,Data Science,Amazon Web Services,Data Visualization,Cloud Computing
+12,Dinal Alosyius Cutinha,core,JavaScript,Node.js,Computer Vision,MongoDB,Django,Flask
+13,Ananthu M,data science,Logistic Regression,Machine Learning,NLTK,JavaScript,Data Science,Brute Force Attacks,Microsoft Azure,Web Development,Flask
+14,Katya Pandey,data science,Machine Learning,Data Visualization,Web Development,Microsoft Azure
+15,Siddharth Chatterjee,cyber security,Fuzzy Logic,Soft Computing,Kotlin,Cryptocurrency,Blockchain,Docker,Oracle Cloud
+16,Akhil Domakonda,data science,Node.js,JavaScript,Pandas,Data Visualization,Front End,Matplotlib,Web Development,React.js
+17,Sakar Baral,core
+18,Anmol Gera,cloud computing,Amazon Web Services,Feature Extraction
+19,Yeshu Anand Shah,core,Node.js,MongoDB,Web Development
+20,VINOD B,data science,Machine Learning,Tokenization,Web Development
+21,Kushagra Singhal,core,JavaScript,Web Development,Front End
+22,Praneeth Sethumadhavan,core,JavaScript,Node.js,Flask,MongoDB
+23,Ansh Sharma,cloud computing,Amazon Web Services,Web Development
+24,Kushal Roy,cloud computing,Cyber Security,Machine Learning,Google Cloud,Firebase,Kotlin,Amazon Web Services,Data Science,Artificial Intelligence,Google Cloud Platform,NoSQL,Cryptography
+25,Eshan Das,core,JavaScript
+26,ASWIN JOJO,core,Data Science,JavaScript,Microsoft Azure
+27,Kapil Dhungana,core,JavaScript,MongoDB,Cloud Computing
+28,Sushovan K C,data science,Machine Learning,Node.js,JavaScript,Artificial Intelligence,OpenCV,React.js,MongoDB,Web Development
+29,HRITOBROTO SANYAL,core,JavaScript,Microsoft Azure,TensorFlow,Network Analysis,React.js
+30,Bikram Nepal,core,JavaScript
+31,MANCHIKANTI VENKATA LALITH KUMAR,core,Web Development
+32,TAMANNA KAPOOR,data science,Firebase,Deep Learning,Data Mining
+33,Aditya Basta,cloud computing,Cyber Security,Machine Learning,Amazon Web Services,Docker,Microsoft Azure
+34,Riddhi Gupta,data science,JavaScript,Deep Learning,Machine Learning,Naive Bayes,Logistic Regression,Artificial Intelligence,Blockchain,Web Development,SQL Injection
+35,K Madhu Sudhan,data science,Machine Learning,Data Visualization,Matplotlib,Phishing
+36,BRIJESH KUMAR,data science,Big Data,Socket.io,JavaScript,Web Development,React.js
+37,HANIVANT HOLANI,cloud computing,JavaScript,Node.js,MongoDB,Microsoft Azure,Cloud Computing
+38,ARYAK ROY,cloud computing,Firebase,JavaScript,Virtualization,Web Development,React.js,MongoDB
+39,SHIVANSH BAJAR,data science,JavaScript,Machine Learning,Keras,Web Development,WebSocket,MongoDB,Feature Extraction,React.js,Flask
+40,Ambuj Gupta,data science,NLTK,Node.js,JavaScript,Pandas,Keras,Feature Selection,Deep Learning,TensorFlow,Convolutional Neural Networks,MongoDB,Flask,Phishing
+41,SHIVANSH GUPTA,data science,Deep Learning,Machine Learning
+42,Yash Khemka,cloud computing,JavaScript,Machine Learning,Google Cloud,Web Development,Cloud Computing,Django,Front End
+43,SHIVALIKA WAZIR,core,Machine Learning,Firebase,Phishing,Front End,Web Development,React.js
+44,G SAI THARUN KUMAR,data science,JavaScript,Machine Learning,Naive Bayes,Amazon Web Services,Data Visualization,Front End
+45,KSHITIJ DHAWAN,cloud computing,Keras,Pandas,Google Cloud,JavaScript,Amazon Web Services,Firebase,NLTK,Django,TensorFlow,Flask,Docker,Google Cloud Platform,Matplotlib
+46,Sanskriti Srivastava,data science,Logistic Regression
+47,V SAI RATHNA VAMSI,cyber security,JavaScript,NLTK,Cisco Packet Tracer,Machine Learning,Keras,Amazon Web Services,OpenCV,Node.js,Wireshark,Logistic Regression,Pandas,TensorFlow,Ethical Hacking,Cryptography,Nessus
+48,Vedang Sawarkar,data science,JavaScript,Data Science,Deep Learning,Machine Learning,Keras,Computer Vision,Node.js,Artificial Intelligence,Data Extraction,Web Development,TensorFlow,MongoDB,React.js,Microsoft Azure,Flask
+49,Sricharan Ramesh,cloud computing,Kubernetes,Node.js,JavaScript,Amazon Web Services,Firebase,Web Servers,Django,React.js,TypeScript,Web Development,Flask,Docker,MongoDB
+50,Shivam Baranwal,data science,JavaScript,Data Science,Deep Learning,Genetic Algorithm,Machine Learning,Artificial Intelligence,Cryptocurrency,Blockchain,Tokenization,React.js,Natural Language Processing
+51,Nandan Deshpande,data science,Machine Learning,JavaScript,Data Science
+52,MUSKAN,core,JavaScript,Front End,React.js
+53,Sanjit Kapoor,data science,Machine Learning,Pandas,React.js,Data Processing,Web Mining,Natural Language Processing
+54,SRUTHI GUDE,core,JavaScript,Artificial Intelligence,Computer Networks
+55,OHM PATEL,cloud computing,JavaScript,DevOps,Web Development,MongoDB,React.js
+56,Prashant,core,JavaScript,Web Development
+57,Saral Pahadia,cyber security,Blockchain,Google Cloud,Web Development
+58,ANAMAYA VYAS,cyber security,Deep Learning,JavaScript,Machine Learning,Socket.io,Cryptocurrency,Amazon Web Services,Blockchain,Artificial Intelligence,Flask,Virtual Machines,React.js
+59,Bharath Sai Gopishetti,data science,Machine Learning
+60,Sanya Jain,cloud computing,JavaScript,Data Science,Amazon Web Services,Node.js,Firebase,Docker,MongoDB,React.js,Microsoft Azure
+61,SAIRAM MOTUPALLI,data science,Artificial Intelligence,Machine Learning,Data Science
+62,Venkata Satya Sai Srikar Dornala,data science,Deep Learning,Data Extraction,Data Science
+63,ISHAN GUPTA,core,React.js
+64,Gemini Krishna Chava,cyber security,JavaScript,Machine Learning,Pandas,Blockchain,Web Testing,Web Development
+65,Raghav Arora,data science,Data Science,Deep Learning,Cisco Packet Tracer,Machine Learning,OpenCV,Node.js,MongoDB,Feature Extraction
+66,Devesh D R,data science,Deep Learning,JavaScript,Amazon Web Services,Pandas,Machine Learning,Matplotlib,Natural Language Processing,TensorFlow
+67,B. ADITYA KRISHNA,cloud computing,Amazon Web Services,Deep Learning,Web Development
+68,MONIL MODI,data science,Big Data,JavaScript
+69,PUNIT MIDDHA,cyber security,Cryptography,Ethical Hacking,Web Development,Flask,MongoDB
+70,Pranav Sinha,cloud computing,JavaScript,Amazon Web Services,Flask,Front End
+71,SATYA DATTA JUPALLI,data science,Keras
+72,Hridesh Singh,cloud computing,JavaScript,Node.js,Ethical Hacking,Microsoft Azure,TypeScript,Oracle Cloud,MongoDB,JavaScript Libraries
+73,Vaibhav Prakash,data science,JavaScript,Logistic Regression,Machine Learning,Pandas,Data Science,Deep Learning,TensorFlow,Matplotlib
+74,Aadarshbhushan Singh,core,Web Development,Front End
+75,Priyanshi Sharma,data science,JavaScript,Machine Learning,Computer Networks,Deep Learning,MongoDB,Django,Cryptography,Data Mining
+76,GHANTA NEHA,cloud computing,JavaScript,Amazon Web Services,NoSQL,Cloud Computing
+77,PRAVEEN S R,data science,JavaScript,Data Science,Machine Learning
+78,SATHWIK VUPPALA,data science,JavaScript,Linear Regression
+79,SRI RUPIN POTULA,data science,Deep Learning,Machine Learning,Data Science,Data Classification,Convolutional Neural Networks,Web Development
+80,ANKITH LAGUPUDI,core,JavaScript,Artificial Intelligence,MongoDB,Web Development,React.js,SHA-256,Front End
+81,Nikhil Jain,core,Machine Learning,Node.js,JavaScript,Artificial Intelligence,Blockchain,Web Mining,MongoDB,Web Development
+82,Pratyay Piyush,data science,Data Science,Big Data
+83,Revanth Bhargava,data science,Data Science,Machine Learning,Artificial Intelligence,Natural Language Processing,Reinforcement
+84,KHUSH KHANDELWAL,core,Web Development,Django
+85,Prithviraj Mutalik,data science,Logistic Regression,Machine Learning,Data Science,Pandas,Matplotlib,Flask
+86,Prakrit Raj,cyber security,Cisco Packet Tracer,Cyber Security,Microsoft Azure
+87,AYUSH SRIVASTAVA,core
+88,Aabir Datta,core,JavaScript,OpenCV,Flask
+89,Anmol Bansal,data science,JavaScript,Data Science,Machine Learning,Node.js,Firebase,Web Development,MongoDB,React.js,Django,Flask
+90,YOSHITA SAI MADAMALA,cloud computing,Data Science,Machine Learning,Amazon Web Services,Cisco Packet Tracer,Google Cloud,JavaScript,Firewall,RSA
+91,SAURAV SHARMA,cyber security,Artificial Intelligence,Socket.io,Amazon Web Services,Blockchain,Ethereum,React.js
+92,PARUL MUDALIAR,data science,JavaScript,Data Visualization,Regression Analysis
+93,Karthik Vempati,data science,Deep Learning,Amazon Web Services,Logistic Regression,Web Development,Network Analysis,Text Classification
+94,Tejas Ahuja,data science,Data Science,Machine Learning,Web Development,Microsoft Azure
+95,Ayyappan KM,cloud computing,Machine Learning,Amazon Web Services,Cyber Security,Microsoft Azure,Web Development,Flask
+96,Soumyadip Majumder,data science,Machine Learning,Firebase,JavaScript,Artificial Intelligence,Deep Learning,Microsoft Azure
+97,SHIVAM SINHA,core,Node.js,React.js
+98,V Hemanth Sai Sri Harsha,cloud computing,Machine Learning,JavaScript,DevOps,Amazon Web Services,Data Science,Microsoft Azure,Cloud Computing
+99,Aviral Singh Chauhan,core,JavaScript,Node.js,MongoDB,React.js
+100,BIPASA MUKHERJEE,core,JavaScript
+101,DOLLU VAKULADEVI,data science,Machine Learning,Naive Bayes,Text Classification
+102,KOOKUTLA SATWIKA,core,JavaScript
+103,DIVIJ BAHL,data science,JavaScript,Artificial Intelligence,Data Visualization,JavaFX,MongoDB,Web Development
+104,Kolla,core,Web Development
+105,Mohit Gupta,core,JavaScript,Front End
+106,Vikas Singh,data science,Pandas,Keras,Artificial Intelligence,TensorFlow
+107,PAVAN KALYAN REDDY,data science,Deep Learning,Web Development
+108,Teja Srinivas Anem,cloud computing,JavaScript,OpenCV,Amazon Web Services,Deep Learning,Web Development,Cloud Computing
+109,AKRITI AGARWAL,data science,Keras,Machine Learning,JavaScript,OpenCV,Feature Extraction,Flask,TensorFlow
+110,Mohit Suhasaria,data science,Logistic Regression,OpenCV,JavaScript,Machine Learning,Computer Vision,Phishing,Web Development
+111,Arun Bala,cloud computing,JavaScript,JavaScript OS,Amazon Web Services,React.js,Cloud Computing,MongoDB
+112,MADHAV ANAND,cloud computing,Amazon Web Services,JavaScript,React.js,Web Development
+113,Verma,cyber security,Cyber Security,Web Development
+114,Anish Sarkar,cloud computing,JavaScript,Deep Learning,Machine Learning,Amazon Web Services,DevOps,Web Development,Cloud Computing
+115,Kashish Khaneja,core,Firebase,JavaScript
+116,Shreyas Pravin Vats,cyber security,Machine Learning,Blockchain,Web Development,Front End
+117,KHUSHI AGRAWAL,core,JavaScript,Django,React.js,Docker,RSA,Front End
+118,NITTOOR VISHNU,data science,Machine Learning,Deep Learning
+119,Shivam Pandey,cloud computing,JavaScript,Artificial Intelligence,Blockchain,Amazon Web Services,JavaFX
+120,Joshita Aratikatla,core,JavaScript,Node.js,Firebase,React.js
+121,YASHARTH TRIPATHI,core,Node.js,JavaScript,Socket.io,MongoDB
+122,Neha Bheemisetty,data science,Data Science,Computer Vision,Machine Learning,Amazon Web Services,OpenCV
+123,VANSHITA KHILRANI,data science,JavaScript,JavaScript Frameworks,Node.js,Deep Learning,Kubernetes,MongoDB,Web Development,Flask,React.js
+124,Dhriti Ranjan,core,JavaScript,OpenCV,Computer Networks,Web Development,MongoDB
+125,Valipishetty Sai preetham,data science,Logistic Regression,Machine Learning,JavaScript,Support Vector Machine,Speech Recognition,Pandas,OpenCV,Linear Regression,Front End,Matplotlib,Flask
+126,Aditya Kanikdaley,core,Firebase,JavaScript,React.js,Front End
+127,ARPIT KHANDELWAL,cloud computing,Web Development,Cloud Computing
+128,TAMOJIT ROY,data science,JavaScript,Data Science,Machine Learning
+129,VIT VELLORE,core,JavaScript,MongoDB
+130,Ananya Singh,cloud computing,Amazon Web Services,JavaScript
+131,Shreyans Satpathy,data science,Convolutional Neural Networks,Data Engineering
+132,VAISHNAVI S,cyber security,JavaScript,Deep Learning,Cisco Packet Tracer,Machine Learning,Cracking,Wireshark,JavaScript Frameworks,Artificial Intelligence,Cyber Security,Firebase,NoSQL,React.js
+133,Anmol Mishra,cloud computing,Firebase,JavaScript,Docker,NoSQL,Flask
+134,Pallavi Dhere,data science,Data Science,Speech Recognition,Machine Learning,Amazon Web Services,Artificial Intelligence,Natural Language Processing
+135,Ayushmaan Singh Rajput,data science,JavaScript,Deep Learning,TensorFlow
+136,PATEL DEEPKUMAR KARTIKBHAI,data science,Machine Learning
+137,Sathwik Kothapalli,data science,JavaScript,Data Science,Machine Learning,Node.js,Deep Learning,Google Cloud,Google Cloud Platform,Cryptography,Natural Language Processing
+138,HIMA RANI MATHEWS,data science,Naive Bayes,React.js
+139,Sneha Veerakumar,cloud computing,JavaScript,Google Cloud,Amazon Web Services,Docker,Google Cloud Platform,Django
+140,Yash Ray,cloud computing,Amazon Web Services,React.js
+141,BENNY SAI BELLAPU,data science,Machine Learning
+142,Sayan Jana,cyber security,Big Data,Machine Learning,Node.js,MongoDB,Phishing,WebRTC
+143,Rajat Satashiya,core,Node.js,JavaScript,React.js,JavaScript Libraries,MongoDB,Flask
+144,Mayank Jain,cyber security,Blockchain,JavaScript,Flask,Web Development,MongoDB,React.js
+145,SAI SURYA JAJIMI,data science,Machine Learning,Computer Networks,Cosine Similarity,Artificial Intelligence,Amazon Web Services,Django
+146,Anchit Agarwal,core
+147,Joe Marshal,cloud computing,Artificial Intelligence,Amazon Web Services,Cryptography
+148,Rishav Raj,cyber security,Artificial Intelligence,Amazon Web Services,Cisco Packet Tracer,Wireshark,TensorFlow,Flask,Django,Convolutional Neural Networks,Web Development
+149,Debalay Dasgupta,data science,NLTK,Virtual Private Networks,Amazon Web Services,Data Science,Network Congestion,OpenCV,Artificial Intelligence,Pandas,Computer Vision,Swing,Flask,Phishing
+150,N NathaMayil,data science,JavaScript,Big Data,Data Science,OpenCV,Firebase,Network Analysis,React.js
+151,Shreyash Mall,data science,JavaScript,Machine Learning,Amazon Web Services,MongoDB,TensorFlow
+152,Harsh Agarwal,cloud computing,Machine Learning,Amazon Web Services,Web Development
+153,Nidhi Gupta,data science,Data Science,Machine Learning,Firebase,Pandas,Phishing,Matplotlib,Flask,Front End
+154,ADITYA POONIA,cloud computing,Firebase
+155,Vanieka Sharma,cyber security,JavaScript,Kotlin,Firebase,Keras,Deep Learning,Blockchain,Ethereum,React.js,Flask
+156,Salman Mahboob,cloud computing,Firebase,Front End
+157,TINWALA FARHAAN,cloud computing,Firebase,React.js,Web Development,Flask,Front End
+158,Vivek Sharma,cloud computing,Machine Learning,Amazon Web Services,Web Development,MongoDB,Matplotlib,Front End,Cloud Computing
+159,Muskan Dhingra,cyber security,Logistic Regression,Machine Learning,Socket.io,Cyber Security,Amazon Web Services,Cryptocurrency,Front End
+160,Bhuvan Molugu,data science,Artificial Intelligence,Natural Language Processing
+161,RAJ KUMAR KANERIA,cloud computing,Amazon Web Services,Amazon S3,Web Development
+162,Saumitra Pathak,data science,Data Science,Big Data
+163,Nandini Aggarwal,cyber security,Blockchain,JavaScript,Ethereum,Front End
+164,Yash Wankar,cloud computing,JavaScript,Kotlin,React.js,Front End,Cloud Computing,Web Development
+165,Harsh Londhekar,data science,OpenCV,Swift,Deep Learning,Firebase,TensorFlow
+166,Mohit Nandargi,cyber security,Artificial Intelligence,Blockchain
+167,Yash Raj,data science,JavaScript,Machine Learning,Artificial Intelligence,Speech Recognition,TensorFlow,Docker,MongoDB
+168,NAOMI GEORGE,core,JavaScript,MongoDB,Web Development
+169,Raghav Asawa,cyber security,JavaScript,Data Science,Cryptocurrency,Artificial Intelligence,Blockchain,Web Development
+170,Joe Kuruvilla,cloud computing,Node.js,JavaScript,Amazon Web Services,MongoDB
+171,LAXMAN B,data science,Machine Learning,JavaScript,Pandas,MongoDB,Web Scraping,Phishing
+172,Akash Patra,cloud computing,Cisco Packet Tracer,Amazon Web Services,Web Development
+173,Somil Kuchhal,core,JavaScript,OpenCV,SHA-256
+174,Prayasi Gopi,data science,Data Science,Machine Learning,Fuzzy Logic,OpenCV,Cisco Packet Tracer,Computer Vision,Flask,Web Development,Network Analysis
+175,Arjun Sunil Nair,cloud computing,Amazon Web Services,Cisco Packet Tracer,Docker,Web Development
+176,VOGURI GEETH LOKESH,data science,Machine Learning
+177,NIKITA SHARMA,core,JavaScript
+178,Anant Tiwari,data science,NLTK,Amazon Web Services,Node.js,Cosine Similarity,TensorFlow,Flask,Web Development,MongoDB
+179,Aniket Lavkush Vishwakarma,data science,Data Science,Keras,Pandas,Cloud Computing,Data Visualization,Matplotlib,Flask,TensorFlow
+180,Saksham Gupta,data science,JavaScript,Node.js,Deep Learning,Web Development,Front End
+181,Heet Kumar Kothadiya,core,JavaScript,Node.js,React.js,MongoDB,Web Development
+182,Kondepudi Srikar Sai,cloud computing,Firebase,Web Development
+183,NRUPA SONI,core,JavaScript
+184,Shirsh Chatterjee,core,JavaScript,Artificial Intelligence,Web Development,MongoDB,React.js
+185,HARIPRASAD KK,cloud computing,Firebase,Kotlin,Amazon Web Services,Data Science,Feature Engineering,NoSQL,Cloud Computing
+186,Ajay Nidamanuru,core
+187,Praduman Pandey,core
+188,Jeet Bangoria,cloud computing,Node.js,JavaScript,Amazon S3,Amazon Web Services,Django,Cryptography
+189,Chiranjeevi Dasari,cyber security,Cisco Packet Tracer,OpenCV,Flask
+190,DHRUV UPADHYAY,core,JavaScript,Artificial Intelligence,Front End,Web Development
+191,Sailesh N S,data science,JavaScript,NLTK,Artificial Intelligence,Web Development,Flask
+192,Samarth Sinha,data science,JavaScript,Machine Learning,Keras,Cryptocurrency,Blockchain,TensorFlow,React.js,Flask
+193,Mithilesh Ghadge,cloud computing,Kubernetes,Google Cloud
+194,Neil Kavalakkat,data science,Kotlin,Firebase,Data Science,OpenCV,TensorFlow,JavaFX
+195,Gokul Nair,cloud computing,JavaScript,Swift,Firebase
+196,ABUZAR BAGEWADI,data science,Firebase,JavaScript,Amazon Web Services,Pandas,OpenCV,Microsoft Azure,TensorFlow,Flask,MongoDB
+197,TANYA SANJAY BATRA,core,JavaScript,Node.js
+198,Pratyush Raj Mishra,data science,Keras,Machine Learning,JavaScript,Microsoft Azure,TensorFlow
+199,Priyanshu Mohanty,data science,Wireshark,JavaScript,Machine Learning,Pandas,Data Science,Cosine Similarity,Keras,Artificial Intelligence,Cyber Security,Matplotlib,Flask,Convolutional Neural Networks,Data Visualization,Burp Suite
+200,Sai Sharath Chandra Mahankali,data science,Cryptocurrency,JavaScript,Big Data,Machine Learning,Artificial Intelligence,Deep Learning,Data Visualization
+201,ATHRWA DESHMUKH,data science,Big Data,Data Science,Machine Learning,Soft Computing,Amazon S3,JavaScript,Amazon Web Services,Web Development,NoSQL,Front End
+202,ALLA PHANINDHRA REDDY,data science,JavaScript,Logistic Regression,Machine Learning,MongoDB
+203,MICKEY KUMAR ROUNIYAR,data science,Artificial Intelligence,Support Vector Machine,Cyber Security,JavaScript,Machine Learning,Pandas,Front End,Matplotlib,Web Development
+204,ANISH KUMAR,core,JavaScript,Front End,React.js
+205,Devansh Mehra,core,Firebase,Front End,Web Development
+206,Rishabh Singh,core,Django
+207,Harshanth K Prakash,data science,Deep Learning,Machine Learning,JavaScript,Flask,Web Development
+208,V VIKRAM GANESH,cloud computing,Machine Learning,JavaScript,Microsoft Azure
+209,Akshat Rastogi,core,Node.js
+210,HARIKRISHNA JIJU,core,JavaScript,Front End
+211,Pratham Jalan,data science,Machine Learning
+212,Aman Anand,cyber security,Firebase,Node.js,Blockchain,Kotlin,MongoDB,Web Mining,Ethereum,React.js,Web Development,TypeScript
+213,NEHA CHOWDARY BEZAWADA,data science,Big Data,NoSQL
+214,Pavan Santosh,cloud computing,Amazon Web Services,Firebase,JavaScript,MongoDB,React.js,Flask
+215,Biswarup Mukherjee,cyber security,JavaScript,Machine Learning,Logistic Regression,Blockchain,Microsoft Azure,Ethereum,Web Development
+216,Shobhit Gupta,data science,Artificial Intelligence,NLTK,Kubernetes,Pandas
+217,Mohit Chotani,data science,Data Science
+218,JAYANT GUPTA,cyber security,Artificial Intelligence,Machine Learning,Firewall,Ethical Hacking
+219,Jyothirmai Puram,data science,Artificial Intelligence,Web Development
+220,V KAARTHIK SHRINIVAS,data science,JavaScript,Machine Learning,Tokenization,Flask
+221,Pasalapudi Chanukya Sai Vardhan,cloud computing,JavaScript,Amazon Web Services,Web Development
+222,Suraj Peddhibhotla,cloud computing,Machine Learning,Microsoft Azure
+223,Samarth Singh Pundir,core,Artificial Intelligence,Node.js,JavaScript,MongoDB,SHA-256
+224,SILVI TANEJA,core,JavaScript
+225,Aditya Keshan,cloud computing,Amazon Web Services,Node.js,JavaScript,Firebase,MongoDB
+226,NIRANJAN VENKATESAN,cloud computing,Amazon Web Services
+227,Pragyansh Rawat,core,JavaScript,Web Development
+228,Ananya Singh,core
+229,SRIKANTAM LAKSHMI PRASANNA,core
+230,PRANJAL MARTAND BORKAR,cloud computing,Google Cloud,Google Cloud Platform,MongoDB,Cloud Computing
+231,Sachet Adhikari,cloud computing,Firebase,Flask
+232,VYSHNAVI PM,data science,JavaScript,Machine Learning,Blockchain,Convolutional Neural Networks,Data Visualization
+233,Jahnavi Chama,core
+234,Rhea Banerjee,data science,Data Classification,Deep Learning,Machine Learning,Data Science,Pandas,JavaScript,Ethical Hacking,Front End
+235,Sudeep Chaudhary,cloud computing,Amazon Web Services,JavaScript,React.js,Web Development
+236,Chaitanya Samineni,core
+237,Priyansh Saxena,data science,Keras,Artificial Intelligence,Pandas,JavaScript,React.js,Web Development,TensorFlow
+238,Urvashi Parashar,data science,JavaScript,Pandas,OpenCV,Front End,Web Development,React.js
+239,Prathmesh Karale,cloud computing,OpenCV,JavaScript,Firebase,Pandas,Flask
+240,ANIKET ARTANI,core,JavaScript,Web Development,MongoDB
+241,Shaik Imam,core,JavaScript
+242,Ashish Das,data science,Data Science,Blockchain,Deep Learning,Keras,Pandas,Machine Learning,Microsoft Azure,TensorFlow
+243,Vishal Mittal,core,Artificial Intelligence,Front End
+244,Aakash Kumar Shah,core,Web Development
+245,Rahul Reddy Basi Reddy,cloud computing,Artificial Intelligence,Firebase
+246,Anushka Pathak,data science,Data Science,Machine Learning,JavaScript,Deep Learning
+247,Hardik Govil,core,Node.js,JavaScript,JavaScript Frameworks,Machine Learning,MongoDB
+248,Nikunj Bedia,data science,Artificial Intelligence
+249,Tatvavid Tripathi,cloud computing,Amazon Web Services,Machine Learning,Blockchain,Computer Vision,Firebase,Google Cloud,Flask,Web Development,Cloud Computing,Google Cloud Platform
+250,R S LIKHITH SAI,cloud computing,Microsoft Azure
+251,SUDHANI RUPALI,data science,Computer Networks,Machine Learning
+252,TALATALA RAHUL REDDY,data science,Node.js,Cisco Packet Tracer,JavaScript,Machine Learning,Flask
+253,Anisha D Kaushik,data science,Amazon Web Services,JavaScript,Keras,Linear Regression,TensorFlow
+254,Apoorv Yadav,data science,Machine Learning,Deep Learning
+255,LOURA SHINY M,data science,Artificial Intelligence,Fuzzy Logic,Machine Learning,Network Analysis,Ethical Hacking
+256,SHACHI MAURYA,cyber security,Blockchain,Amazon Web Services,Firebase,Ethereum
+257,Reva Munish,data science,Artificial Intelligence,JavaScript,Convolutional Neural Networks,Web Development
+258,Devang Pathak,core
+259,SAI VAMSEEDHAR RAJU VINUKONDA,cloud computing,JavaScript,Cloud Computing
+260,Aftab Gazali,data science,Computer Networks,Machine Learning,React.js,Web Development
+261,PRANEETH RAYUDU,cloud computing,Microsoft Azure,Web Development
+262,K Aniket Prusty,cloud computing,Firebase,Machine Learning,JavaScript,Django,Flask
+263,M.Kaushik reddy,cyber security,Artificial Intelligence,Node.js,JavaScript,Blockchain,MongoDB
+264,Souris Ash,cloud computing,Machine Learning,JavaScript,Node.js,Kotlin,Amazon Web Services,Docker,TypeScript,React.js,MongoDB,WebSocket
+265,Abhishek S Nurandayyanmath,data science,OpenCV,Pandas,Machine Learning
+266,VEMULA PUSHPA UGMA,cloud computing,Amazon Web Services,JavaScript,Deep Learning,TensorFlow
+267,Shobhit Khurana,cloud computing,JavaScript,Firebase
+268,YASH SAXENA,cloud computing,Artificial Intelligence,Amazon Web Services,Node.js,JavaScript,Machine Learning,Blockchain,MongoDB
+269,ABHIGNANENDRA PENUGONDA,data science,Logistic Regression,JavaScript,Linear Regression,Flask,Web Development
+270,Taranpreet Kalra,data science,Machine Learning,JavaScript,NLTK,Web Development,Flask
+271,VENKATA SIRISHA MADDALA,data science,JavaScript,Machine Learning
+272,VADIRAJ RAO,data science,JavaScript,Deep Learning,Pandas,MongoDB,Flask
+273,Sai Akshith Vasa,cloud computing,Firebase,Node.js,Amazon Web Services,JavaScript,Docker,Microsoft Azure,NoSQL,React.js,Web Development
+274,Suhas Reddy Penubaka,cloud computing,JavaScript,Keras,Google Cloud,Computer Networks,Kubernetes,Pandas,OpenCV,Amazon Web Services,Machine Learning,Flask,TensorFlow,Phishing,Microsoft Azure,Cloud Computing
+275,AMAR DIXIT,data science,JavaScript,Node.js,Data Science,Pandas,Amazon Web Services,NLTK,Flask,Data Visualization,React.js
+276,Jatin Parashar,core,JavaScript,Node.js,MongoDB,Web Development
+277,Varun Parikh,data science,Machine Learning
+278,Harshavardhan Patekar,cloud computing,Machine Learning,Kotlin,JavaScript,Firebase,Django,Web Development
+279,HARSHITHA KATA,data science,Artificial Intelligence
+280,Abhignya Tayi,data science,DevOps,Machine Learning,Data Science,JavaScript,Google Cloud,Natural Language Processing,Flask,Django,Web Development
+281,SRIVATHSAN B. NAYAK,cyber security,Amazon Web Services,Cyber Security,Cloud Computing,Data Visualization,Ethical Hacking,Docker,Web Development
+282,Lokesh Immadi,core,JavaScript,React.js
+283,Akshika Mudgal,data science,Firebase,JavaScript,Pandas,OpenCV,Web Development
+284,RIDHIKA SAHNI,data science,Machine Learning,Web Development
+285,JAYAT SAHA,cyber security,Cryptocurrency,JavaScript,React.js
+286,LIKITH M D,cloud computing,Keras,JavaFX,Microsoft Azure,Web Development
+287,N KRISHNA RAJ,core,JavaScript,Django,MongoDB,Flask,Web Development
+288,M SHARATH SRIVATSAN,cloud computing,Artificial Intelligence,Amazon Web Services,JavaScript,Kubernetes,Machine Learning,Deep Learning,OpenCV,Blockchain,Data Science,Cloud Computing,MongoDB,Data Visualization,Microsoft Azure,Web Development,TensorFlow,Virtual Machines
+289,YASWANI SRI LAKSHMI TUMMALAPENTA,cloud computing,Amazon Web Services,MongoDB,Cloud Computing,Virtual Machines
+290,KASIRAJU SRIKAR KOTAM RAJU,data science,Data Science,Web Development
+291,HARSHA VARDHAN SAI KUMAR KOTHA,cloud computing,DevOps,Web Development
+292,SIVA SATHVIK PATURI,data science,Cosine Similarity,Kubernetes,Deep Learning,Amazon Web Services,NLTK,Logistic Regression,Naive Bayes,Text Classification,Linear Regression,Feature Engineering,Network Analysis,MongoDB,Feature Extraction
+293,Kunal Jaiswal,data science,Deep Learning,Machine Learning,Flask,Convolutional Neural Networks,MongoDB,Microsoft Azure
+294,shashank sinha,cyber security,JavaScript,Blockchain,React.js,Ethereum,Django
+295,Sri Harshitha Uppaala,data science,Machine Learning,Web Development
+296,SHYAM PIPALIA,cloud computing,Docker,React.js,Front End,Microsoft Azure
+297,PARIJAT NIYOGY,core,JavaScript,Node.js,MongoDB
+298,Panyam Rohit Reddy,data science,Firebase,Data Visualization,Feature Extraction
+299,Udit Gupta,data science,Node.js,Big Data,JavaScript,Machine Learning,Data Science,Blockchain,MongoDB,React.js
+300,Nimish Aggarwal,data science,Machine Learning,JavaScript,Artificial Intelligence,Cyber Security
+301,YOGENDER SINGH,data science,Data Science,Cyber Security,Machine Learning
+302,Yogita Bhardwaj,cloud computing,JavaScript,DevOps,Data Science,Web Development
+303,Deepanshu Saini,data science,Firebase,Node.js,JavaScript,Data Science,MongoDB,React.js,TensorFlow
+304,Mohit Jain,data science,Naive Bayes,Firebase,Machine Learning,JavaScript,Microsoft Azure,Web Development
+305,SHUBHAM MALLYA,data science,JavaScript,Support Vector Machine,Amazon Web Services
+306,SHATAYU MITTAL,core,MongoDB
+307,Pasumarti Sai Adarsh,data science,Fuzzy Logic,Linear Regression
+308,Satyaki Mandal,data science,JavaScript,Deep Learning,Machine Learning,React.js
+309,MAKKAPATI DHANYASRI,core
+310,NITESH KUMAR,core
+311,GAURAV PATYAL,cloud computing,Firebase,JavaScript,Virtualization,Machine Learning,Swing,MongoDB
+312,AVANI KASAT,cloud computing,Data Science,Machine Learning,Amazon Web Services,Phishing,Microsoft Azure
+313,SRINJAY SAHA,cloud computing,Amazon Web Services,Node.js,JavaScript,Blockchain,MongoDB,NoSQL,Web Development
+314,BHARGAVA,data science,Machine Learning,Data Visualization,Ethical Hacking,Web Development
+315,Suryansh Sehgal,cloud computing,Google Cloud,Web Development
+316,VANKAYALAPATI KARTHEEK ESWAR,core,JavaScript
+317,Sourabh Agarwal,core,JavaScript
+318,Monu Agrawal,core
+319,Vyshnavi Mandava,data science,Machine Learning,Web Development
+320,Manas Bhardwaj,cyber security,Data Science,Cyber Security,Machine Learning,Cryptocurrency,JavaScript,Data Visualization,Front End,Web Development
+321,YOHAN MAHESH,data science,Big Data,JavaScript,Node.js,DevOps,OpenCV,Soft Computing,Docker,React.js,Data Processing,MongoDB
+322,konka Manoj,core,React.js,Web Development
+323,Ganga Varun Maganti,data science,Data Science,Machine Learning,MongoDB
+324,Ayush Dhiman,cloud computing,Deep Learning,Machine Learning,Amazon S3,JavaScript,Kubernetes,Keras,Amazon Web Services,Docker,Flask,MongoDB,TensorFlow,NoSQL,Phishing
+325,Vaishnav Budruk,cyber security,Cisco Packet Tracer
+326,PRAVEEN BABU,core
+327,Suhaas Rao Badada,cloud computing,Firebase,JavaScript,Google Cloud,Machine Learning,DevOps,Flask
+328,Vardaan Vishnu,data science,Artificial Intelligence,JavaScript,Machine Learning,OpenCV,Web Development
+329,Hari Prasath Naresh,data science,Machine Learning,Data Science,Matplotlib
+330,Rishitha G.M,data science,Machine Learning,Web Development
+331,Shane V Jose,data science,JavaScript,Machine Learning
+332,Rohit Menon,cloud computing,JavaScript,Node.js,Amazon Web Services,MongoDB
+333,Tanmay Srivastava,data science,Amazon Web Services,Machine Learning,JavaScript,Data Visualization,Flask,Web Development
+334,AISHWARYA SRIRAM SRINIVASACHARY,cloud computing,Socket.io,Data Science,Computer Networks,Kubernetes,Deep Learning,Cyber Security,Machine Learning,Web Servers,Docker,Microsoft Azure,MongoDB,React.js
+335,RITABRATA NAG,data science,Machine Learning,JavaScript,Linear Regression,Django
+336,Sumit Prakash,core,Node.js,JavaScript,MongoDB
+337,Niteesh reddy gajjala,cyber security,Machine Learning,Cracking,Django
+338,Nandan Baldha,cloud computing,Google Cloud,Microsoft Azure
+339,YASH JAIN,cloud computing,JavaScript,Firebase,Microsoft Azure,Web Development
+340,Divyanu Baheti,data science,Deep Learning,Machine Learning,Keras,TensorFlow
+341,Shiva Rajan,cloud computing,Artificial Intelligence,JavaScript,Microsoft Azure,Web Development
+342,JANESH PATEL,data science,JavaScript,Amazon Web Services,NLTK,Big Data,Machine Learning,Flask,Web Development
+343,ABHISHEK BASU,cyber security,Artificial Intelligence,Cyber Security,Computer Networks,Machine Learning,Cloud Computing,Cryptography
+344,MONARK MEHTA,data science,JavaScript,Computer Vision,Firebase,OpenCV
+345,Siddharth Agrawal,cloud computing,Amazon Web Services,Firebase,Node.js,Computer Networks,Machine Learning,Blockchain,Kotlin,MongoDB
+346,Wilson Vidyut Doloy,data science,Deep Learning,Machine Learning,OpenCV,JavaScript,NLTK,Computer Vision,Flask,Web Development
+347,Achintya Kumar Satyayan,cyber security,Google Cloud,Kubernetes,Big Data,Data Science,Machine Learning,Blockchain,Deep Learning,WebRTC,Cloud Computing,Ethereum
+348,Tanay Vaishnav,data science,JavaScript,Flask,Front End,Web Development,Microsoft Azure,Data Visualization
+349,Jai Surya S,data science,Data Science,Big Data,Machine Learning,Phishing,Network Analysis
+350,Yaswanth M,cloud computing,Computer Vision,Firebase,Firewall,Machine Learning,Amazon Web Services,Cyber Security,Artificial Intelligence,MongoDB
+351,GOPALI SINGH,core
+352,AMIRINENI SAI SREEYA,data science,Artificial Intelligence,Web Development
+353,Mohana Kannan Ravikumar,cloud computing,JavaScript,Amazon Web Services,Machine Learning,Front End,Web Development
+354,Ketki Patil,data science,JavaScript,Deep Learning,Keras,Pandas,TensorFlow,Flask,Web Development
+355,VINAY MAKANA,data science,Deep Learning,Machine Learning,Artificial Intelligence,Logistic Regression,Natural Language Processing,Microsoft Azure,Web Development
+356,HARSHITA,data science,Text Classification
+357,Rahul Agarwal,cloud computing,Machine Learning,Amazon Web Services,Kotlin,MongoDB
+358,Ashwani Prasad,data science,Data Science,Google Cloud,Big Data
+359,HEMANT KUMAR RATHORE,data science,JavaScript,Artificial Intelligence,Pandas,Machine Learning,Web Development
+360,BIKALP KC,cyber security,Firebase,JavaScript,Blockchain,MongoDB,Ethereum
+361,MAGULURI SATYA HARSHA,cyber security,Deep Learning,Blockchain,Ethical Hacking
+362,Abel Kurian,cloud computing,Microsoft Azure,SHA-256
+363,Abhinav Vijayakumar,cloud computing,Machine Learning,Data Science,Microsoft Azure,Web Development
+364,Aryan Vats,data science,Google Cloud,Data Science,Machine Learning,Front End,Data Visualization,RSA,MongoDB
+365,Saurav Ranjan,data science,Big Data,Data Science,Machine Learning,Blockchain,Phishing,Web Development
+366,Mythili Nagalakshmi Aravapalli,core
+367,Ishan Khadka,core,JavaScript,Node.js,Web Development
+368,Nitin Lodha,data science,JavaScript,Artificial Intelligence,Big Data,Machine Learning,Front End,Web Development,Data Processing
+369,Sarthak Bansal,data science,Machine Learning,Front End
+370,Varun Varatharajan,data science,JavaScript,Artificial Intelligence,Cyber Security,Flask,TensorFlow,Data Visualization,Cloud Computing
+371,Paras Garg,data science,Artificial Intelligence,Computer Vision,Data Science,Deep Learning,Socket.io,Node.js,Machine Learning
+372,Nadimpalli Lakshmi Narasimha Raju,cyber security,JavaScript,Cracking,MongoDB
+373,RIDDHIRUP BERA,data science,Keras,JavaScript,NLTK,Machine Learning,Deep Learning,Artificial Intelligence,Natural Language Processing,TensorFlow
+374,Sahil Donde,cyber security,Blockchain,Speech Recognition,JavaScript,Web Development,MongoDB,React.js
+375,Rohit Mantri,cyber security,JavaScript,Blockchain,Ethereum,React.js,Web Development
+376,CHATURYA CHINTA,data science,Artificial Intelligence
+377,SULAV GIRI,cyber security,Firebase,Node.js,JavaScript,Blockchain,Ethereum
+378,Tarini Guttula,data science,Data Science,Deep Learning,Pandas,Web Development
+379,Saransh Vats,core,Web Development
+380,Akhil Raman,core,JavaScript,Swing
+381,Karri Koushik,core,JavaScript
+382,Sankalp .,data science,JavaScript,Machine Learning,Deep Learning,Web Development,MongoDB
+383,Nikkita Batra,data science,Big Data,Machine Learning,JavaScript,Node.js,React.js,Feature Extraction,MongoDB
+384,Nikhitha Alokam,core,Front End,Web Development,React.js
+385,DESHMUKH SAI GANESH,data science,JavaScript,Machine Learning
+386,Saksham Minocha,cyber security,JavaScript,Data Science,Blockchain,Big Data,Machine Learning,Web Development,Phishing,MongoDB
+387,Dola Harshel,core,JavaScript,React.js,Web Development,Flask
+388,Sahil Pandey,cloud computing,Amazon Web Services,Machine Learning,Front End
+389,TRINAV RATTAN,data science,Machine Learning,Data Science,JavaScript,Pandas,Matplotlib,Web Development
+390,SRI HARSHA TALASILA,data science,Big Data,TensorFlow,MongoDB
+391,Gurtavrein Singh,data science,JavaScript,Machine Learning,Artificial Intelligence,TensorFlow,Web Development
+392,Vidushi Gupta,cloud computing,JavaScript,Node.js,Firebase,Data Science,React.js,MongoDB,Web Development
+393,Vignesh Bandla,data science,Computer Networks,Machine Learning,Artificial Intelligence,Data Mining
+394,PARTH NAMDEV,cloud computing,JavaScript,Amazon S3,Node.js,Amazon Web Services,Django,Web Development,Docker,MongoDB
+395,NARAYANA DATTA JUPALLI,cloud computing,Keras,Machine Learning,Front End,Microsoft Azure
+396,Hariharan Arunkumar,cyber security,Machine Learning,JavaScript,Phishing,Web Development
+397,Dhruv Gupta,cloud computing,Amazon Web Services,JavaScript
+398,Sriyog Dixit,cloud computing,Amazon Web Services,Web Development,React.js,Django
+399,Sri Aditya,core,JavaScript,Django,Web Development
+400,Mohit Sai Krishna Peddakotla,data science,Socket.io,JavaScript,Keras,Node.js,Artificial Intelligence,Pandas,Machine Learning,MongoDB,Matplotlib

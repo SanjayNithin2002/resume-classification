@@ -10,7 +10,7 @@ def read_skills():
 def clean_dataset():
     skills_list = read_skills()
     data = []
-    with open("data/dataset.csv","r") as dataset:
+    with open("data/dataset2.csv","r") as dataset:
         csvreader = csv.reader(dataset)
         for row in csvreader:
             current_row = [skill for skill in row[2:] if skill in skills_list]
@@ -19,7 +19,7 @@ def clean_dataset():
 
 def create_clean_dataset():
     dataset = clean_dataset()
-    with open("data/new_dataset.csv","w") as f:
+    with open("data/dataset2_clean.csv","w") as f:
         csvwriter = csv.writer(f)
         csvwriter.writerows(dataset)
             
