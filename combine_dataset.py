@@ -8,7 +8,7 @@ def extract_results():
 
 
 def combine_dataset():
-    with open('data/dataset_clean.csv', 'r') as f1, open('data/dataset2_clean.csv', 'r') as f2, open('data/complete_dataset_clean_new.csv', 'w') as f3:
+    with open('data/dataset.csv', 'r') as f1, open('data/dataset2.csv', 'r') as f2, open('final_datasets/complete_dataset.csv', 'w') as f3:
         f1_reader = csv.reader(f1)
         f2_reader = csv.reader(f2)
         f3_writer = csv.writer(f3)
